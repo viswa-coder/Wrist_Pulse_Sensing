@@ -49,13 +49,5 @@ The Wrist Pulse Sensing System is a health monitoring project designed to sense 
 - Real-time Feedback: Users can receive real-time feedback on their pulse waveforms, enabling them to make lifestyle adjustments in accordance with Ayurvedic recommendations.
 
 
-## Getting Started
 
-To get started with the project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
